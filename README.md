@@ -17,8 +17,6 @@
             <li>Utilizes a GRU model for next word prediction.</li>
             <li>Trained on a large corpus of text to learn language patterns and context.</li>
             <li>Implements preprocessing techniques to clean and prepare text data.</li>
-            <li>Provides an interactive interface for users to input text and receive next word predictions.</li>
-            <li>Evaluates model performance using common NLP metrics.</li>
         </ul>
         <p><strong>Technologies Used:</strong></p>
         <ul>
